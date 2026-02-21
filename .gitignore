@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Data (avoid large files)
+data/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+!outputs/model_predictions.csv
