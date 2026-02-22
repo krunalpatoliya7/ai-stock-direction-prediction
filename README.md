@@ -1,4 +1,4 @@
-\# 📈 AI Stock Direction Prediction (AAPL)
+# 📈 AI Stock Direction Prediction (AAPL)#
 
 
 
